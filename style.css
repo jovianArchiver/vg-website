@@ -54,6 +54,38 @@ table.ctable {
 	border: 1px solid #B19961;
 	align-content: center
 }
+table.unittable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
+table.unittable td{
+    font-size: 16px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
+table.unittable p{
+    margin: 0px;
+}
+table.unittable img{
+    height: 21px;
+}
+.pad{
+    padding-left: 1em;
+}
+.big{
+    font-size: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.top{
+    vertical-align: top;
+}
 tr.ctablehead{
     border-bottom-style:solid;
     border-bottom-width:2px;
