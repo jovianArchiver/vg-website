@@ -24,7 +24,11 @@ div.htitleindex{
 
 div.htitle{
     border: 2px solid #B19961;
-    height: 50px
+    vertical-align: middle;
+    line-height: 50px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
 }
 hr{
     border: 1px solid #B19961;
