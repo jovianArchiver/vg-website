@@ -58,6 +58,10 @@ table.ctable {
 	border: 1px solid #B19961;
 	align-content: center
 }
+table.ctable td{
+    padding: 0.5em;
+    padding-bottom: 1em
+}
 table.unittable{
     border: 1px solid black;
     border-collapse: collapse;
@@ -95,6 +99,9 @@ tr.ctablehead{
     border-bottom-width:2px;
     border-bottom-color:#FFFFFF
     vertical-align: top
+}
+tr.ctablehead td{
+    padding: 0em;
 }
 .trim{
     border: 1px solid #B19961;
